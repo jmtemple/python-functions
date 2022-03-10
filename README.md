@@ -353,8 +353,6 @@ Q12: In your own words, what is a return value?
 
 Q13: Why would we use functions, or what is the value of functions?
 
-Q14: Include a link to your Replit workspace for this lab.
-
 # Lab Notebook Questions
 
 Q1: Describe how you would start building out code to accomplish this task? What functions, statements, or keywords would you need to use? How would you start to organize this program?
@@ -394,4 +392,3 @@ Q12: In your own words, what is a return value?
 
 Q13: Why would we use functions, or what is the value of functions?
 
-Q14: Include a link to your Replit workspace for this lab.
